@@ -31,7 +31,9 @@ export function Navbar() {
           {/*<Link href="#docs" className="text-sm text-muted-foreground hover:text-foreground">*/}
           {/*  Docs*/}
           {/*</Link>*/}
-          <Button>Demo</Button>
+          <a href="/Arogyam-Demo.apk" download>
+            <Button>Demo</Button>
+          </a>
         </div>
       </div>
     </header>
