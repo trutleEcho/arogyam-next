@@ -19,7 +19,7 @@ export function Hero() {
             patient communications, provider availability, and audit-ready logs as a service.
           </p>
           <div className="flex flex-col gap-3 sm:flex-row">
-            <a href="/Arogyam-Demo.apk" download>
+            <a href="/Arogyam-demo.apk" download>
               <Button>Demo</Button>
             </a>
             {/*<Link*/}
